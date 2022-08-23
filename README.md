@@ -1,10 +1,10 @@
 # CGV_AtomSimulation
-
 All we need to get started with CGV Project
 
 
 Installation
-You can build your project in two preferable ways.
+
+We can build your project in two preferable ways.
 
 1. Use the Fedora Virtual Box VM from the college department which has already OPENGL setup for you. (No additional Installation Required)
 2. Use OpenGL in windows or mac.
